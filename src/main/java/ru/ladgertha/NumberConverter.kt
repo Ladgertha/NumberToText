@@ -1,3 +1,5 @@
+package ru.ladgertha
+
 import java.text.DecimalFormat
 import kotlin.math.abs
 
