@@ -21,7 +21,7 @@ allprojects {
 	}
 ```
 ```
-implementation 'com.github.Ladgertha:NumberToText:v1.0.1'
+implementation 'com.github.Ladgertha:NumberToText:v1.0.2'
 ```
 
 - Maven:
@@ -37,6 +37,6 @@ implementation 'com.github.Ladgertha:NumberToText:v1.0.1'
 <dependency>
 	  <groupId>com.github.Ladgertha</groupId>
 	  <artifactId>NumberToText</artifactId>
-	  <version>v1.0.1</version>
+	  <version>v1.0.2</version>
 </dependency>
   ```
